@@ -1,0 +1,96 @@
+
+2023-05-18 00:12:34,104:INFO:Test_Login:test_login:16:Opening Browser 
+2023-05-18 00:12:34,104:INFO:Test_Login:test_login:19:Start to login
+2023-05-18 00:12:34,277:INFO:Test_Login:test_login:21:Username Genret
+2023-05-18 00:12:34,393:INFO:Test_Login:test_login:24:Password Genret 
+2023-05-18 00:12:37,888:INFO:Test_Login:test_login:26:Login Button click succesfull
+2023-05-18 00:12:43,979:INFO:Test_Login:test_login:28:Customer button click 
+2023-05-18 00:12:50,478:INFO:Test_Login:test_login:30:Customer Button click
+2023-05-18 00:12:54,805:INFO:Test_Login:test_login:32:Search Employee Email wise
+2023-05-18 00:12:59,104:INFO:Test_Login:test_login:34:Search Button click on 
+2023-05-18 00:21:36,901:INFO:Test_Login:test_login:17:Opening Browser 
+2023-05-18 00:21:36,902:INFO:Test_Login:test_login:20:Start to login
+2023-05-18 00:21:37,042:INFO:Test_Login:test_login:22:Username Genret
+2023-05-18 00:21:37,131:INFO:Test_Login:test_login:25:Password Genret 
+2023-05-18 00:21:40,505:INFO:Test_Login:test_login:27:Login Button click succesfull
+2023-05-18 00:21:46,597:INFO:Test_Login:test_login:29:Customer button click 
+2023-05-18 00:21:52,832:INFO:Test_Login:test_login:31:Customer Button click
+2023-05-18 01:04:47,407:INFO:Test_Login:test_login:17:Opening Browser 
+2023-05-18 01:04:47,407:INFO:Test_Login:test_login:20:Start to login
+2023-05-18 01:04:47,545:INFO:Test_Login:test_login:22:Username Genret
+2023-05-18 01:04:47,638:INFO:Test_Login:test_login:25:Password Genret 
+2023-05-18 01:04:50,118:INFO:Test_Login:test_login:27:Login Button click succesfull
+2023-05-18 01:04:56,200:INFO:Test_Login:test_login:29:Customer button click 
+2023-05-18 01:05:02,461:INFO:Test_Login:test_login:31:Customer Button click
+2023-05-18 01:05:07,699:INFO:Test_Login:test_login:33:start to add employee
+2023-05-18 01:05:09,802:INFO:Test_Login:test_login:35:employee email is yashwati@xyz.com
+2023-05-18 01:05:59,791:INFO:Test_Login:test_login:17:Opening Browser 
+2023-05-18 01:05:59,791:INFO:Test_Login:test_login:20:Start to login
+2023-05-18 01:05:59,923:INFO:Test_Login:test_login:22:Username Genret
+2023-05-18 01:06:00,016:INFO:Test_Login:test_login:25:Password Genret 
+2023-05-18 01:06:03,314:INFO:Test_Login:test_login:27:Login Button click succesfull
+2023-05-18 01:06:09,384:INFO:Test_Login:test_login:29:Customer button click 
+2023-05-18 01:06:15,596:INFO:Test_Login:test_login:31:Customer Button click
+2023-05-18 01:06:20,785:INFO:Test_Login:test_login:33:start to add employee
+2023-05-18 01:06:22,895:INFO:Test_Login:test_login:35:employee email is yashwati@xyz.com
+2023-05-18 01:06:50,986:INFO:Test_Login:test_login:17:Opening Browser 
+2023-05-18 01:06:50,986:INFO:Test_Login:test_login:20:Start to login
+2023-05-18 01:06:51,120:INFO:Test_Login:test_login:22:Username Genret
+2023-05-18 01:06:51,215:INFO:Test_Login:test_login:25:Password Genret 
+2023-05-18 01:06:53,797:INFO:Test_Login:test_login:27:Login Button click succesfull
+2023-05-18 01:06:59,888:INFO:Test_Login:test_login:29:Customer button click 
+2023-05-18 01:07:06,225:INFO:Test_Login:test_login:31:Customer Button click
+2023-05-18 01:07:11,374:INFO:Test_Login:test_login:33:start to add employee
+2023-05-18 01:07:13,545:INFO:Test_Login:test_login:35:employee email is yashwati@xyz.com
+2023-05-18 01:11:21,901:INFO:Test_Login:test_login:17:Opening Browser 
+2023-05-18 01:11:21,902:INFO:Test_Login:test_login:20:Start to login
+2023-05-18 01:11:22,036:INFO:Test_Login:test_login:22:Username Genret
+2023-05-18 01:11:22,132:INFO:Test_Login:test_login:25:Password Genret 
+2023-05-18 01:11:24,670:INFO:Test_Login:test_login:27:Login Button click succesfull
+2023-05-18 01:11:30,755:INFO:Test_Login:test_login:29:Customer button click 
+2023-05-18 01:11:36,976:INFO:Test_Login:test_login:31:Customer Button click
+2023-05-18 01:11:42,168:INFO:Test_Login:test_login:33:start to add employee
+2023-05-18 01:11:44,307:INFO:Test_Login:test_login:35:employee email is yashwati@xyz.com
+2023-05-18 13:59:33,131:INFO:Test_Login:test_login:16:Opening Browser 
+2023-05-18 13:59:33,134:INFO:Test_Login:test_login:19:Start to login
+2023-05-18 13:59:33,270:INFO:Test_Login:test_login:21:Username Genret
+2023-05-18 13:59:33,377:INFO:Test_Login:test_login:24:Password Genret 
+2023-05-18 13:59:37,733:INFO:Test_Login:test_login:26:Login Button click succesfull
+2023-05-18 13:59:43,821:INFO:Test_Login:test_login:28:Customer button click 
+2023-05-18 13:59:50,055:INFO:Test_Login:test_login:30:Customer Button click
+2023-05-18 13:59:54,240:INFO:Test_Login:test_login:32:Search Employee Email wise
+2023-05-18 13:59:58,307:INFO:Test_Login:test_login:34:Search Button click on 
+2023-05-18 15:47:18,190:INFO:Test_Login:test_login:16:Opening Browser 
+2023-05-18 15:47:18,191:INFO:Test_Login:test_login:19:Start to login
+2023-05-18 15:47:18,466:INFO:Test_Login:test_login:21:Username Genret
+2023-05-18 15:47:18,579:INFO:Test_Login:test_login:24:Password Genret 
+2023-05-18 15:47:21,378:INFO:Test_Login:test_login:26:Login Button click succesfull
+2023-05-18 15:47:27,503:INFO:Test_Login:test_login:28:Customer button click 
+2023-05-18 15:47:33,872:INFO:Test_Login:test_login:30:Customer Button click
+2023-05-18 15:47:38,039:INFO:Test_Login:test_login:32:Search Employee Email wise
+2023-05-18 15:47:42,342:INFO:Test_Login:test_login:34:Search Button click on 
+2023-05-18 15:59:46,361:INFO:Test_Login:test_login:16:Opening Browser 
+2023-05-18 15:59:46,361:INFO:Test_Login:test_login:19:Start to login
+2023-05-18 15:59:46,546:INFO:Test_Login:test_login:21:Username Genret
+2023-05-18 15:59:46,678:INFO:Test_Login:test_login:24:Password Genret 
+2023-05-18 15:59:50,254:INFO:Test_Login:test_login:26:Login Button click succesfull
+2023-05-18 15:59:56,390:INFO:Test_Login:test_login:28:Customer button click 
+2023-05-18 16:00:03,052:INFO:Test_Login:test_login:30:Customer Button click
+2023-05-18 16:00:07,199:INFO:Test_Login:test_login:32:Search Employee Email wise
+2023-05-18 16:00:11,523:INFO:Test_Login:test_login:34:Search Button click on 
+2023-05-18 16:01:08,483:INFO:Test_Login:test_login:16:Opening Browser 
+2023-05-18 16:01:08,484:INFO:Test_Login:test_login:19:Start to login
+2023-05-18 16:01:08,713:INFO:Test_Login:test_login:21:Username Genret
+2023-05-18 16:01:08,887:INFO:Test_Login:test_login:24:Password Genret 
+2023-05-18 16:01:11,130:INFO:Test_Login:test_login:26:Login Button click succesfull
+2023-05-18 16:01:17,256:INFO:Test_Login:test_login:28:Customer button click 
+2023-05-18 16:01:23,833:INFO:Test_Login:test_login:30:Customer Button click
+2023-05-18 16:05:23,124:INFO:Test_Login:test_login:16:Opening Browser 
+2023-05-18 16:05:23,124:INFO:Test_Login:test_login:19:Start to login
+2023-05-18 16:05:23,409:INFO:Test_Login:test_login:21:Username Genret
+2023-05-18 16:05:23,561:INFO:Test_Login:test_login:24:Password Genret 
+2023-05-18 16:05:27,069:INFO:Test_Login:test_login:26:Login Button click succesfull
+2023-05-18 16:05:33,147:INFO:Test_Login:test_login:28:Customer button click 
+2023-05-18 16:05:39,713:INFO:Test_Login:test_login:30:Customer Button click
+2023-05-18 16:05:43,923:INFO:Test_Login:test_login:32:Search Employee Email wise
+2023-05-18 16:05:48,205:INFO:Test_Login:test_login:34:Search Button click on 
